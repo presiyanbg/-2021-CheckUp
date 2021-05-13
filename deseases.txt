@@ -1,0 +1,11 @@
+Disease1 123 123 123 
+Disease2 234 345 34
+Disease12 123 123 123 
+Disease23 234 345 34
+Disease14 123 123 123 
+Disease25 234 345 34
+Disease16 123 123 123 
+Disease27 234 345 34
+Disease18 
+Disease29 234 345 34
+
